@@ -10,8 +10,10 @@
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.19.0",
+    "build": "^0.1.4",
     "ejs": "^2.7.1",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "npm-build": "0.0.1"
   },
   "devDependencies": {},
   "repository": {
