@@ -4,8 +4,8 @@
   "description": "A basic to-do app created using JavaScript.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npm run-script build"
+    "test": "standard",
+    "build":"node index.js"
   },
   "author": "Sahil Silare",
   "license": "MIT",
