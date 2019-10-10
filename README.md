@@ -1,5 +1,7 @@
 # **Welcome to the to-do-app!**
 
+![](https://github.com/sahil9001/to-do-app/blob/master/Peek%202019-10-10%2021-10.gif)
+
 A basic to-do app created using JavaScript.
 
 ## **Project setup:**
