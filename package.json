@@ -4,8 +4,8 @@
   "description": "A basic to-do app created using JavaScript.",
   "main": "index.js",
   "scripts": {
-    "test": "standard",
-    "build":"node index.js"
+    "build":"node index.js",
+    "test": "standard"
   },
   "author": "Sahil Silare",
   "license": "MIT",
